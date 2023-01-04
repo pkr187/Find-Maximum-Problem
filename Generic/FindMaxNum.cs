@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Generic
 {
-    internal class FindMaxString
+    internal class FindMaxNum
     {
         //Use maximum int number 
         public int FindMaxIntNumber(int firstNum, int secondNum, int thirdNum)
@@ -39,5 +39,4 @@ namespace Generic
         }
     }
 }
-    
 
